@@ -1,8 +1,8 @@
 
-# Huffman Coding File Compressor 🗜️
+# Huffman Compression Program
 
 ## Last Modified 📆
-- **Date:** 23-October-2024
+- **Date:** 22-October-2024
 
 ## About This Project 📘
 This Huffman Coding application is a powerful tool designed for lossless data compression. It efficiently compresses any type of file by utilizing variable-length codes based on character frequencies — the most frequent characters receive the shortest codes. This project not only demonstrates technical proficiency but also showcases custom implementations of heaps and trees, built from scratch, to manage the priority queue and the Huffman coding tree, ensuring optimal compression.
